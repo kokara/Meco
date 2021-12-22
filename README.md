@@ -6,6 +6,18 @@ The main objective of Meco is to search for mechanics nearby. It helps customers
 -----
 You can run this application on Appetize.io [Click here](https://appetize.io/app/d562h5fbnyd7rnv3nvbjj6fcbm?device=pixel4xl&scale=50&osVersion=10.0) <br>
 To download this application [Click here](https://drive.google.com/file/d/1fL8IozCIK52l4o8NQEBiOh9S4VYk4tyD/view?usp=sharing) <br> <br>
+### Screenshots
+<p align="center">
+<img src="/screenshots/image.jpeg" alt="image" height="600"  /></p>
+<br>
+<p align="center">
+<img src="/screenshots/video.jpeg" alt="video" height="600"  /></p>
+<br>
+<p align="center">
+<img src="/screenshots/search.jpeg" alt="search" height="600" /></p>
+<br>
+<p align="center">
+<img src="/screenshots/profile.jpeg" alt="profile"  height="600" /></p>
 
 
 
