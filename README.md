@@ -8,16 +8,16 @@ You can run this application on Appetize.io [Click here](https://appetize.io/app
 To download this application [Click here](https://drive.google.com/file/d/1fL8IozCIK52l4o8NQEBiOh9S4VYk4tyD/view?usp=sharing) <br> <br>
 ### Screenshots
 <p align="center">
-<img src="/meco_screenshots/image.jpeg" alt="image" height="600"  /></p>
+<img src="/meco_screenshots/1"  height="600"  /></p>
 <br>
 <p align="center">
-<img src="/screenshots/video.jpeg" alt="video" height="600"  /></p>
+<img src="/meco_screenshots/2"  height="600"  /></p>
 <br>
 <p align="center">
-<img src="/screenshots/search.jpeg" alt="search" height="600" /></p>
+<img src="/screenshots/search.jpeg"  height="600" /></p>
 <br>
 <p align="center">
-<img src="/screenshots/profile.jpeg" alt="profile"  height="600" /></p>
+<img src="/screenshots/profile.jpeg"   height="600" /></p>
 
 
 
